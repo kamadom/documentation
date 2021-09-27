@@ -14,7 +14,7 @@ The application can be written in any language, so you may prefer to select an a
 
 What considerations go into selecting an application to package?
 ----------------------------------------------------------------
-With sufficient effot, most any software with the ability to be self-hosted could make its way onto EmbassyOS.  That being said, the following features will make service packaging much easier:
+With sufficient effort, most any software with the ability to be self-hosted could make its way onto EmbassyOS.  That being said, the following features will make service packaging much easier:
 
 - Already built with self-hosting in mind
 - Active development
